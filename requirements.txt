@@ -1,0 +1,8 @@
+graphviz
+jupyter
+kaggle
+matplotlib
+pandas
+pyarrow
+seaborn
+scikit-learn
